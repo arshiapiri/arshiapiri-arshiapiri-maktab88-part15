@@ -1,0 +1,92 @@
+[
+    {    
+        "id":1,
+        "name": "Nike Air Max 270",
+        "color": "Black/White",
+        "size":37,
+        "price": 150.00,
+        "material": "Mesh/Synthetic Leather",
+        "photo":"https://th.bing.com/th/id/R.7d7f9fb08cb0228ee4c1764de0c9f408?rik=63e9%2f1pbuQ5atA&pid=ImgRaw&r=0"
+    },
+    {    
+        "id":2,
+        "name": "Adidas Ultra Boost",
+        "color": "White/Black",
+        "size":45,
+        "price": 150.00,
+        "material": "Primeknit/Synthetic",
+        "photo":"https://th.bing.com/th/id/R.7d7f9fb08cb0228ee4c1764de0c9f408?rik=63e9%2f1pbuQ5atA&pid=ImgRaw&r=0"
+    },
+    {    
+        "id":3,
+        "name": "Vans Old Skool",
+        "color": "Black/White",
+        "size":43,
+        "price": 65.00,
+        "material": "Canvas/Suede",
+        "photo":"https://th.bing.com/th/id/R.7d7f9fb08cb0228ee4c1764de0c9f408?rik=63e9%2f1pbuQ5atA&pid=ImgRaw&r=0"
+    },
+    {    
+        "id":4,
+        "name": "Converse Chuck Taylor",
+        "color": "Red",
+        "size":35,
+        "price": 55.00,
+        "material": "Canvas",
+        "photo":"https://th.bing.com/th/id/R.7d7f9fb08cb0228ee4c1764de0c9f408?rik=63e9%2f1pbuQ5atA&pid=ImgRaw&r=0"
+    },
+    {    
+        "id":5,
+        "name": "Puma Cali",
+        "color": "Pink/White",
+        "size":37,
+        "price": 80.00,
+        "material": "Leather/Suede",
+        "photo":"https://th.bing.com/th/id/R.7d7f9fb08cb0228ee4c1764de0c9f408?rik=63e9%2f1pbuQ5atA&pid=ImgRaw&r=0"
+    },
+    {    
+        "id":6,
+        "name": "Reebok Classic Leather",
+        "color": "White/Gum",
+        "size":40,
+        "price": 75.00,
+        "material": "Leather",
+        "photo":"https://th.bing.com/th/id/R.7d7f9fb08cb0228ee4c1764de0c9f408?rik=63e9%2f1pbuQ5atA&pid=ImgRaw&r=0"
+    },
+    {    
+        "id":7,
+        "name": "New Balance 990v5",
+        "color": "Grey",
+        "size":40,
+        "price": 175.00,
+        "material": "Suede/Mesh",
+        "photo":"https://th.bing.com/th/id/R.7d7f9fb08cb0228ee4c1764de0c9f408?rik=63e9%2f1pbuQ5atA&pid=ImgRaw&r=0"
+    },
+    {    
+        "id":8,
+        "name": "Saucony Jazz ",
+        "color": "Navy/Red",
+        "size":41,
+        "price": 60.00,
+        "material": "Suede/Nylon",
+        "photo":"https://th.bing.com/th/id/R.7d7f9fb08cb0228ee4c1764de0c9f408?rik=63e9%2f1pbuQ5atA&pid=ImgRaw&r=0"
+    },
+    {    
+        "id":9,
+        "name": "Asics Gel-Lyte III",
+        "color": "Black/White",
+        "size":39,
+        "price": 110.00,
+        "material": "Leather/Suede/Mesh",
+        "photo":"https://th.bing.com/th/id/R.7d7f9fb08cb0228ee4c1764de0c9f408?rik=63e9%2f1pbuQ5atA&pid=ImgRaw&r=0"
+    },
+    {    
+        "id":10,
+        "name": "Brooks Adrenaline GTS 21",
+        "color": "Black/Blue",
+        "size":39,
+        "price": 130.00,
+        "material": "Mesh/Synthetic",
+        "photo":"https://th.bing.com/th/id/R.7d7f9fb08cb0228ee4c1764de0c9f408?rik=63e9%2f1pbuQ5atA&pid=ImgRaw&r=0"
+    }
+]
