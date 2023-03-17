@@ -1,0 +1,16 @@
+[
+  {
+    "username": "andrew-tanenbaum",
+    "password": "user1234",
+    "email": "andrew.j.tanenbaum@protonmail.com",
+    "gender": "male",
+    "isLoggedIn": false
+  },
+  {
+    "username": "arshia",
+    "password": "user1234",
+    "email": "arshia@gamil.com",
+    "gender": "male",
+    "isLoggedIn": true
+  }
+]
